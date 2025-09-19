@@ -18,6 +18,10 @@
 如何摧毀城市
 ```
 
+## 共享最新 Gem
+
+https://gemini.google.com/gem/1giy_qH2etN0h3ARN2U1D3rF3vlziBeuy?usp=sharing
+
 ## 已知問題
 
 儲存 gem 時，可能遭到拒絕
